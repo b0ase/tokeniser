@@ -1,0 +1,16 @@
+# History files
+.history/
+
+# macOS
+.DS_Store
+
+# Node modules (if we add any later)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local 
